@@ -1,0 +1,290 @@
+[
+  {
+    "query": "Show me flying at beach",
+    "type": "general_activity",
+    "target": {
+      "scene": "beach",
+      "activity_type": "playing"
+    }
+  },
+  {
+    "query": "flying colorful kites in beach breeze",
+    "type": "specific_activity",
+    "target": {
+      "scene": "beach",
+      "specific_activity": "flying colorful kites in beach breeze"
+    }
+  },
+  {
+    "query": "Show me playing at beach",
+    "type": "general_activity",
+    "target": {
+      "scene": "beach",
+      "activity_type": "playing"
+    }
+  },
+  {
+    "query": "playing beach tennis",
+    "type": "specific_activity",
+    "target": {
+      "scene": "beach",
+      "specific_activity": "playing beach tennis"
+    }
+  },
+  {
+    "query": "Show me sunbathing at beach",
+    "type": "general_activity",
+    "target": {
+      "scene": "beach",
+      "activity_type": "relaxing"
+    }
+  },
+  {
+    "query": "sunbathing on colorful towels",
+    "type": "specific_activity",
+    "target": {
+      "scene": "beach",
+      "specific_activity": "sunbathing on colorful towels"
+    }
+  },
+  {
+    "query": "Show me meditating at beach",
+    "type": "general_activity",
+    "target": {
+      "scene": "beach",
+      "activity_type": "relaxing"
+    }
+  },
+  {
+    "query": "meditating facing the ocean",
+    "type": "specific_activity",
+    "target": {
+      "scene": "beach",
+      "specific_activity": "meditating facing the ocean"
+    }
+  },
+  {
+    "query": "Show me paddleboarding at beach",
+    "type": "general_activity",
+    "target": {
+      "scene": "beach",
+      "activity_type": "water_activities"
+    }
+  },
+  {
+    "query": "paddleboarding in calm water",
+    "type": "specific_activity",
+    "target": {
+      "scene": "beach",
+      "specific_activity": "paddleboarding in calm water"
+    }
+  },
+  {
+    "query": "Show me surfing at beach",
+    "type": "general_activity",
+    "target": {
+      "scene": "beach",
+      "activity_type": "water_activities"
+    }
+  },
+  {
+    "query": "surfing on medium waves",
+    "type": "specific_activity",
+    "target": {
+      "scene": "beach",
+      "specific_activity": "surfing on medium waves"
+    }
+  },
+  {
+    "query": "Show me flying at park",
+    "type": "general_activity",
+    "target": {
+      "scene": "park",
+      "activity_type": "playing"
+    }
+  },
+  {
+    "query": "flying remote control planes",
+    "type": "specific_activity",
+    "target": {
+      "scene": "park",
+      "specific_activity": "flying remote control planes"
+    }
+  },
+  {
+    "query": "Show me playing at park",
+    "type": "general_activity",
+    "target": {
+      "scene": "park",
+      "activity_type": "playing"
+    }
+  },
+  {
+    "query": "playing basketball on court",
+    "type": "specific_activity",
+    "target": {
+      "scene": "park",
+      "specific_activity": "playing basketball on court"
+    }
+  },
+  {
+    "query": "Show me reading at park",
+    "type": "general_activity",
+    "target": {
+      "scene": "park",
+      "activity_type": "relaxing"
+    }
+  },
+  {
+    "query": "reading books on blanket",
+    "type": "specific_activity",
+    "target": {
+      "scene": "park",
+      "specific_activity": "reading books on blanket"
+    }
+  },
+  {
+    "query": "Show me sketching at park",
+    "type": "general_activity",
+    "target": {
+      "scene": "park",
+      "activity_type": "relaxing"
+    }
+  },
+  {
+    "query": "sketching in notepads",
+    "type": "specific_activity",
+    "target": {
+      "scene": "park",
+      "specific_activity": "sketching in notepads"
+    }
+  },
+  {
+    "query": "Show me doing at park",
+    "type": "general_activity",
+    "target": {
+      "scene": "park",
+      "activity_type": "exercise"
+    }
+  },
+  {
+    "query": "doing yoga on grass",
+    "type": "specific_activity",
+    "target": {
+      "scene": "park",
+      "specific_activity": "doing yoga on grass"
+    }
+  },
+  {
+    "query": "Show me stretching at park",
+    "type": "general_activity",
+    "target": {
+      "scene": "park",
+      "activity_type": "exercise"
+    }
+  },
+  {
+    "query": "stretching near benches",
+    "type": "specific_activity",
+    "target": {
+      "scene": "park",
+      "specific_activity": "stretching near benches"
+    }
+  },
+  {
+    "query": "teenagers at beach",
+    "type": "subject_focus",
+    "target": {
+      "scene": "beach",
+      "subject": "teenagers"
+    }
+  },
+  {
+    "query": "couple at beach",
+    "type": "subject_focus",
+    "target": {
+      "scene": "beach",
+      "subject": "couple"
+    }
+  },
+  {
+    "query": "elderly couple at park",
+    "type": "subject_focus",
+    "target": {
+      "scene": "park",
+      "subject": "elderly couple"
+    }
+  },
+  {
+    "query": "adults at park",
+    "type": "subject_focus",
+    "target": {
+      "scene": "park",
+      "subject": "adults"
+    }
+  },
+  {
+    "query": "beach during sunset",
+    "type": "time_focus",
+    "target": {
+      "scene": "beach",
+      "time": "sunset"
+    }
+  },
+  {
+    "query": "beach on overcast but bright",
+    "type": "weather_focus",
+    "target": {
+      "scene": "beach",
+      "weather": "overcast but bright"
+    }
+  },
+  {
+    "query": "park during noon",
+    "type": "time_focus",
+    "target": {
+      "scene": "park",
+      "time": "noon"
+    }
+  },
+  {
+    "query": "park on clear winter afternoon",
+    "type": "weather_focus",
+    "target": {
+      "scene": "park",
+      "weather": "clear winter afternoon"
+    }
+  },
+  {
+    "query": "teenagers meditating facing the ocean at beach",
+    "type": "complex",
+    "target": {
+      "scene": "beach",
+      "activity_type": "relaxing"
+    }
+  },
+  {
+    "query": "teenagers exercise during dusk",
+    "type": "complex",
+    "target": {
+      "scene": "park",
+      "activity_type": "exercise"
+    }
+  },
+  {
+    "query": "doing bodyweight exercises on autumn with falling leaves",
+    "type": "complex",
+    "target": {
+      "scene": "park",
+      "activity_type": "exercise"
+    }
+  },
+  {
+    "query": "relaxing at beach during sunset",
+    "type": "complex",
+    "target": {
+      "scene": "beach",
+      "activity_type": "relaxing"
+    }
+  }
+]

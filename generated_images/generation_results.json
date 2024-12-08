@@ -1,0 +1,182 @@
+[
+  {
+    "image_path": "generated_images/image_0000.png",
+    "description": "group of friends playing soccer on grass field during evening, mild summer evening, with flowering cherry trees",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "park",
+      "subject": "group of friends",
+      "activity_type": "playing",
+      "specific_activity": "playing soccer on grass field",
+      "time": "evening",
+      "weather": "mild summer evening",
+      "additional_element": "flowering cherry trees"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0001.png",
+    "description": "group of friends sunbathing on colorful towels during mid-morning, overcast but bright, with palm trees swaying in breeze",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "beach",
+      "subject": "group of friends",
+      "activity_type": "relaxing",
+      "specific_activity": "sunbathing on colorful towels",
+      "time": "mid-morning",
+      "weather": "overcast but bright",
+      "additional_element": "palm trees swaying in breeze"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0002.png",
+    "description": "family stretching near benches during noon, mild summer evening, with wooden gazebo nearby",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "park",
+      "subject": "family",
+      "activity_type": "exercise",
+      "specific_activity": "stretching near benches",
+      "time": "noon",
+      "weather": "mild summer evening",
+      "additional_element": "wooden gazebo nearby"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0003.png",
+    "description": "teenagers playing frisbee near the shoreline during mid-morning, misty morning, with colorful beach umbrellas nearby",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "beach",
+      "subject": "teenagers",
+      "activity_type": "playing",
+      "specific_activity": "playing frisbee near the shoreline",
+      "time": "mid-morning",
+      "weather": "misty morning",
+      "additional_element": "colorful beach umbrellas nearby"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0004.png",
+    "description": "elderly couple playing basketball on court during noon, sunny spring day, with squirrels gathering nuts",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "park",
+      "subject": "elderly couple",
+      "activity_type": "playing",
+      "specific_activity": "playing basketball on court",
+      "time": "noon",
+      "weather": "sunny spring day",
+      "additional_element": "squirrels gathering nuts"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0005.png",
+    "description": "teenagers playing basketball on court during early morning, sunny spring day, with flowering cherry trees",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "park",
+      "subject": "teenagers",
+      "activity_type": "playing",
+      "specific_activity": "playing basketball on court",
+      "time": "early morning",
+      "weather": "sunny spring day",
+      "additional_element": "flowering cherry trees"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0006.png",
+    "description": "couple bodyboarding in waves during sunset, clear sunny, with lighthouse visible in distance",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "beach",
+      "subject": "couple",
+      "activity_type": "water_activities",
+      "specific_activity": "bodyboarding in waves",
+      "time": "sunset",
+      "weather": "clear sunny",
+      "additional_element": "lighthouse visible in distance"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0007.png",
+    "description": "adults digging deep holes in sand during afternoon, misty morning, with colorful beach umbrellas nearby",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "beach",
+      "subject": "adults",
+      "activity_type": "playing",
+      "specific_activity": "digging deep holes in sand",
+      "time": "afternoon",
+      "weather": "misty morning",
+      "additional_element": "colorful beach umbrellas nearby"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0008.png",
+    "description": "group of friends surfing on medium waves during noon, overcast but bright, with sailboats on horizon",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "beach",
+      "subject": "group of friends",
+      "activity_type": "water_activities",
+      "specific_activity": "surfing on medium waves",
+      "time": "noon",
+      "weather": "overcast but bright",
+      "additional_element": "sailboats on horizon"
+    }
+  },
+  {
+    "image_path": "generated_images/image_0009.png",
+    "description": "teenagers snorkeling near coral reef during mid-morning, misty morning, with rocky cliffs in background",
+    "generation_params": {
+      "steps": 30,
+      "guidance_scale": 7.5,
+      "model": "stable-diffusion-v1-5"
+    },
+    "original_metadata": {
+      "scene": "beach",
+      "subject": "teenagers",
+      "activity_type": "water_activities",
+      "specific_activity": "snorkeling near coral reef",
+      "time": "mid-morning",
+      "weather": "misty morning",
+      "additional_element": "rocky cliffs in background"
+    }
+  }
+]
